@@ -1,0 +1,4 @@
+/my-blog-backend/.gitignore
+/my-blog-backend/.env
+/my-blog-backend/mongo-db-data
+/my-blog-backend/node_modules

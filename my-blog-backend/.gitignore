@@ -1,4 +1,2 @@
-my-blog-backend/mongo-db-data
-my-blog-backend/node_modules
-my-blog-backend/credentials.json
 build
+.env

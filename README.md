@@ -29,9 +29,9 @@ The ALX Holberton Software Engineering programme is a 12-month(70h/week) immersi
 
 `MongoDB` `Express JS` `React` `Node JS`
 
-AUTHORS
-### The author of this project for both front and back end in no other person but Chimezie Emmanuel, Agbo.
-* Mildred Makori **[Github](https://github.com/chimezie1283)** , **[twitter](https://twitter.com/TheEnligthened)**, **[Linkedin](https://www.linkedin.com/in/agbo-chimezie-3a4857179/)**
+AUTHOR
+### The author of this project for both front and back end in no other person but:
+* Chimezie Emmanuel, Agbo. **[Github](https://github.com/chimezie1283)** , **[twitter](https://twitter.com/TheEnligthened)**, **[Linkedin](https://www.linkedin.com/in/agbo-chimezie-3a4857179/)**
 
 
 > Please show some love by leaving a ⭐️ if you like this project and don't forget to fork, break and modify. Thanks. 

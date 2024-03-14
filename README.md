@@ -1,5 +1,5 @@
 # Technocrat
-![Technocrat](https://github.com/Chimezie1283/alx-portfolio-project/blob/main/my-blog/src/pages/assets/image0.jpg)
+![Technocrat](https://github.com/Chimezie1283/alx-portfolio-project/blob/main/my-blog/src/pages/assets/image0.png)
 
 `Group project` `Blog Site Portfolio project`
 

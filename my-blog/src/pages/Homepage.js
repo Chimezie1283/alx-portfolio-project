@@ -20,18 +20,43 @@ const HomePage = () => {
 
                             <div class="post-item py-1">
                                 <article class="article">
-                                    <div class="d-flex">
+                                    <div class="">
                                         <a href="#">
-                                            <img src="./assets/image10.avif" class="rounded px-1" alt=""></img>
+                                            <img src={require(".//assets/image9.avif")} class="px-1" alt=""></img>
+                                        </a> 
+                                        <div class="cart-body px-2">
+                                            <div class="trending-category">
+                                                <a href="#" class="link">
+                                                    Web Development 
+                                                </a>
+                                            </div>
+                                            <a href="#" class="text-title display-2 text-dark">
+                                                In web development, their are different things a person can learn. A person can also specialise i either fron or backend.
+                                            </a>
+                                            <p class="secondary-title text-secondary display-2">
+                                                <span>
+                                                    <i class="far fa-clock"></i>
+                                                    Clock Tue 28, 2024.
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </article>
+                            </div>
+                            <div class="post-item py-1">
+                                <article class="article">
+                                    <div class="">
+                                        <a href="#">
+                                            <img src={require(".//assets/image5.avif")} class="px-1" alt=""></img>
                                         </a> 
                                         <div class="cart-body px-2">
                                             <div class="trending-category">
                                                 <a href="#" class="link text-primary">
-                                                    Fashion 
+                                                     Cyber Security
                                                 </a>
                                             </div>
                                             <a href="#" class="text-title display-2 text-dark">
-                                                Lorem ipsum dolor sit amet consectetur.
+                                            Cybersecurity is the practice of protecting internet-connected systems such as hardware, software and data from cyberthreats. It's used by individuals and enterprises to protect against unauthorized access to data centers and other computerized systems.
                                             </a>
                                             <p class="secondary-title text-secondary display-2">
                                                 <span>
@@ -45,18 +70,18 @@ const HomePage = () => {
                             </div>
                             <div class="post-item py-1">
                                 <article class="article">
-                                    <div class="d-flex">
+                                    <div class="">
                                         <a href="#">
-                                            <img src="./assets/image9.avif" class="rounded px-1" alt=""></img>
+                                            <img src={require(".//assets/image7.avif")} class="px-1" alt=""></img>
                                         </a> 
                                         <div class="cart-body px-2">
                                             <div class="trending-category">
                                                 <a href="#" class="link text-primary">
-                                                    Fashion 
+                                                     Data Analyses
                                                 </a>
                                             </div>
                                             <a href="#" class="text-title display-2 text-dark">
-                                                Lorem ipsum dolor sit amet consectetur.
+                                            Data analysis is the process of cleaning, analyzing, interpreting, and visualizing data using various techniques and business intelligence tools. Data analysis tools help you discover relevant insights that lead to smarter and more effective decision-making. In data analytics and data science, there are four main types of data analysis: Descriptive, diagnostic, predictive, and prescriptive. In this post, we'll explain each of the four and consider why they're useful.
                                             </a>
                                             <p class="secondary-title text-secondary display-2">
                                                 <span>
@@ -70,43 +95,18 @@ const HomePage = () => {
                             </div>
                             <div class="post-item py-1">
                                 <article class="article">
-                                    <div class="d-flex">
+                                    <div class="">
                                         <a href="#">
-                                            <img src="./assets/image8.avif" class="rounded px-1" alt=""></img>
+                                            <img src={require(".//assets/image6.avif")} class="px-1" alt=""></img>
                                         </a> 
                                         <div class="cart-body px-2">
                                             <div class="trending-category">
                                                 <a href="#" class="link text-primary">
-                                                    Fashion 
+                                                    Project Management
                                                 </a>
                                             </div>
                                             <a href="#" class="text-title display-2 text-dark">
-                                                Lorem ipsum dolor sit amet consectetur.
-                                            </a>
-                                            <p class="secondary-title text-secondary display-2">
-                                                <span>
-                                                    <i class="far fa-clock text-primary"></i>
-                                                    Clock Tue 28, 2024.
-                                                </span>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </article>
-                            </div>
-                            <div class="post-item py-1">
-                                <article class="article">
-                                    <div class="d-flex">
-                                        <a href="#">
-                                            <img src="./assets/image4.avif" class="rounded px-1" alt=""></img>
-                                        </a> 
-                                        <div class="cart-body px-2">
-                                            <div class="trending-category">
-                                                <a href="#" class="link text-primary">
-                                                    Fashion 
-                                                </a>
-                                            </div>
-                                            <a href="#" class="text-title display-2 text-dark">
-                                                Lorem ipsum dolor sit amet consectetur.
+                                                Project management involves the planning and organization of a company's resources to move a specific task, event, or duty toward completion. It can involve a one-time project or an ongoing activity, and resources managed include personnel, finances, technology, and intellectual property.
                                             </a>
                                             <p class="secondary-title text-secondary display-2">
                                                 <span>

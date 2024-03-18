@@ -8,7 +8,7 @@ const NavBar = () => {
 
     return (
         <nav>
-            <div className="nav-left">Technocrat Blog</div>
+            <div className="nav-left"><a href='/'>Technocrat Blog</a></div>
             <ul>
                 <li>
                     <Link to="/">Home</Link>

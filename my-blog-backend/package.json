@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node src/server.js",
-    "dev": "npm node src/server",
+    "start": "npm dev src/server.js",
+    "dev": "src/server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
